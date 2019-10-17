@@ -1,5 +1,12 @@
 # Hodor
+
+This projects was based on http protocols, and how they work when it comes to send data trough the headers. I had to leard about Http Headers, Web Scrapping, OCR for captcha, Proxies and many others tocips.
+
 ![image](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/261/giphy_hodor.gif)
+
+## Concepts
+
+
 ![cleaning](https://user-images.githubusercontent.com/28121770/67053071-eaec5c80-f105-11e9-873a-c186531ed981.gif)
 ![voting](https://user-images.githubusercontent.com/28121770/67053072-eb84f300-f105-11e9-9990-2946b5ef6125.gif)
 ![voting3-2](https://user-images.githubusercontent.com/28121770/67053448-1754a880-f107-11e9-9fcc-cc85791fc4da.gif)
