@@ -5,6 +5,7 @@ This projects was based on http protocols, and how they work when it comes to se
 ![image](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/261/giphy_hodor.gif)
 
 <hr>
+
 ## Concepts
 
 The project consisted basically in 6 different webs each with a form for a voting system, voting for my id "833" as many times as they request it. 
