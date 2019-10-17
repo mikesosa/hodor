@@ -27,14 +27,12 @@ Every folder has a executable .py file, to run it you only have to type:
   Technologies Used
 </h3>
 <ul>
-  <li>Language: C, Bash</li>
+  <li>Language: Python3, Bash</li>
   <li>Operating System: Ubuntu 14.04 LTS (Trusty64)</li>
-  <li>Style: Holberton Betty</li>
-  <li>Compiler: gcc 4.8.4 with flags -Wall -Werror -Wextra -pedantic</li>
+  <li>Style: Pep8</li>
+  <li>Compiler: No compiler needed</li>
   <li>Version Control: Git</li>
-  <li>Test Suite: We have created a <a href="https://github.com/luischaparroc/bog-0619_shell_test_suite" target="n_blank">Test Suite</a> in order to test the functionality of our shell</li>
 </ul>
-<hr>
 <hr>
 <h3>
   Author
