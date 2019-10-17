@@ -2,6 +2,9 @@
 ![image](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/261/giphy_hodor.gif)
 ![cleaning](https://user-images.githubusercontent.com/28121770/67053071-eaec5c80-f105-11e9-873a-c186531ed981.gif)
 ![voting](https://user-images.githubusercontent.com/28121770/67053072-eb84f300-f105-11e9-9990-2946b5ef6125.gif)
+![voting3-2](https://user-images.githubusercontent.com/28121770/67053448-1754a880-f107-11e9-9fcc-cc85791fc4da.gif)
+![Voting3](https://user-images.githubusercontent.com/28121770/67053449-1754a880-f107-11e9-919d-78c16a28956f.gif)
+
 
 This project covers: Http Headers, Web Scrapping, OCR for Captcha, Proxies etc.
 
