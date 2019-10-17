@@ -35,8 +35,9 @@ Every folder has a executable .py file, to run it you only have to type:
   <li>Test Suite: We have created a <a href="https://github.com/luischaparroc/bog-0619_shell_test_suite" target="n_blank">Test Suite</a> in order to test the functionality of our shell</li>
 </ul>
 <hr>
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+<hr>
+<h3>
+  Author
+</h3>
+<p>Michael Sosa <a href="https://www.linkedin.com/in/michael-sosa/" rel="nofollow">Linkedin</a> || <a href="https://twitter.com/micael_sosa" rel="nofollow">Twitter: @micael_sosa</a></p>
+<hr>
