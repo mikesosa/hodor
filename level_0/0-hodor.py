@@ -6,8 +6,8 @@ getCurrentVotes = __import__('getCurrentVotes').getCurrentVotes
 getRequest = __import__('getRequest').getRequest
 
 
-id_number = 9
-required_votes = 50
+id_number = 833
+required_votes = 1024
 myUrl = 'http://158.69.76.135/level0.php'
 current_votes = 0
 n_votes = required_votes
