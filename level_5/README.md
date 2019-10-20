@@ -5,7 +5,7 @@ Cheat an online voting contest with an automated script. Includes a series of in
 
 ## Level 5
 
-Has to have a WINDOW's user agent. Has to use pytesseract to read a CAPTCHA image off the server. Has to first change all black pixels to the background grey to allow the OCR a better probability of reading the text correctly. Has to parse the hidden 'key' field's 'value' from a GET request. Has to add the user's 'id' and 'holdthedoor' fields to POST request. Votes successfully 1024 times.
+Uses a WINDOW's user agent. Uses pytesseract to read a CAPTCHA image off the server. First change all black pixels to the background grey o the OCR will have a better probability of reading the text correctly. Then get the 'key' field's 'value' from a GET request. Send the user's 'id' and 'holdthedoor' fields to POST request. Votes: 1024 times.
 
 # ![cleaning](https://user-images.githubusercontent.com/28121770/67053071-eaec5c80-f105-11e9-873a-c186531ed981.gif)
 # ![voting](https://user-images.githubusercontent.com/28121770/67053072-eb84f300-f105-11e9-9990-2946b5ef6125.gif)
